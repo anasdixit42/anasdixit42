@@ -10,7 +10,7 @@ VALID_CREDENTIALS = {
 }
 
 # 🔗 आपका असली वेबपेज जो पासवर्ड प्रोटेक्शन के बाद खुलेगा
-PROTECTED_URL = "https://offline-page-server-devil.onrender.com"
+PROTECTED_URL = "https://sonumochi.onrender.com"
 
 # 📌 CSS डिजाइन
 css = """
